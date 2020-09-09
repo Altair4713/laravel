@@ -25,7 +25,8 @@
         "php": "^7.3",
         "illuminate/database": "^8.0",
         "illuminate/support": "^8.0",
-        "longman/telegram-bot": "^0.61"
+        "longman/telegram-bot": "^0.61",
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "require-dev": {
         "mockery/mockery": "~1.2",
